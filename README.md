@@ -1,13 +1,18 @@
 Запуск кода:
 
-Создаем виртуальное окружение:h\python -m venv venv
+Создаем виртуальное окружение:
+python -m venv venv
 
-Активируем виртуальное окружение:h\venv/Scripts/activate.bat
+Активируем виртуальное окружение:
+venv/Scripts/activate.bat
 
-Обновляем pip:h\python -m pip install --upgrade pip
+Обновляем pip:
+python -m pip install --upgrade pip
 
-Загружаем библиотеки:h\pip install -r requirements.txt
+Загружаем библиотеки:
+pip install -r requirements.txt
 
-Запускаем код:h\python parse.py
+Запускаем код:
+python parse.py
 
 
